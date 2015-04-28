@@ -1,7 +1,10 @@
 __author__ = 'francisco'
 
-stat_script_filepath='/home/gsd/MeT2.0/python/external/stat.py'
-stat_script_whereto='/home/gsd'
+stat_script_filepath='python/external/stat.py'
+stat_script_whereto=''
+
+username=''
+password = ''
 
 regionserver='192.168.111.215'
 masterip='192.168.111.213'
@@ -14,9 +17,6 @@ perRead=1
 perScan=0
 scanDistribution='constant'
 
-master = 'master'
-template= '/home/gsd/MeT2.0/python/tmp/workloada_train_template'
-target= '/home/gsd/MeT2.0/python/tmp/workloada_train'
-whereto= '/opt/hbase-0.92.0-cdh4b1-rmv/conf/'
-username=''
-password = ''
+template= 'python/tmp/workloada_train_template'
+target= 'python/tmp/workloada_train'
+
