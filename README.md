@@ -6,7 +6,7 @@ A java module to interface with HBase, which is used by the pyhton script.
 And a python module
 
 The java module is run by:
-./runner.sh HmasterIP zookeerpPort
+./runner.sh HmasterIP zookeeperPort
 
 The python module is run by:
 ./runner.sh
