@@ -1,5 +1,5 @@
 # suhcr
-Python scripts to create a CPU model of HBase NoSQL database from the cache hit ratio.
+Python scripts to create a CPU model of HBase and Cassandra NoSQL database from the cache hit ratio.
 
 It is composed by two modules:
 A java module to interface with HBase, which is used by the pyhton script.
