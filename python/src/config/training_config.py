@@ -6,7 +6,7 @@ stat_script_whereto=''
 username=''
 password = ''
 
-regionserver='192.168.111.215'
+regionserver='192.168.111.214'
 masterip='192.168.111.213'
 
 #runs duration in seconds. Should be at least 15min plus 2min of ramp up
